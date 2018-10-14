@@ -1,0 +1,46 @@
+<style><%@include file="/WEB-INF/css/style.css"%></style>
+
+.h1{
+	text-align: center;
+}
+
+.loginpage{
+	display: block;
+	text-align: center;
+	background-color: steelblue;
+	margin: 40px;
+	padding: 20px;
+	font: Bookman Old Style;
+}
+
+.logininfo{
+	background-color: darkblue;
+	border: 2px solid lightblue;
+	padding: 20px;
+	margin: 20px;
+}
+
+.inputlogin{
+	margin: 20px;
+}
+
+.homepage{
+	display: block;
+	background-color: gray;
+	margin: 20px;
+	padding: 20px;
+}
+
+.title{
+	text-align: left;
+	border: 1px solid white;
+}
+
+.input-towatch{
+	width: 300px;
+}
+
+.towatch-list{
+	background-color: white;
+	border: 1px solid black;
+}
